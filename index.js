@@ -1,4 +1,4 @@
-const token = 'Njg5MDkxNzkyMDQxNDEwNTY3.XnAR9g.kE9envFaRAq9H4JbrblFJw8zIoo'
+const token = 'Njg5MDkxNzkyMDQxNDEwNTY3.XnASpg.owDC9Joof_-QmeyrLKDA6t1UtH8'
 const fs =  require('fs');
 const { Client } = require("discord.js");
 const ytdl = require("ytdl-core");
